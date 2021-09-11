@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Organism
+comment1.params=
+comment1.target=void\ move()
+comment10.params=
+comment10.target=int\ getAge()
+comment11.params=
+comment11.target=int\ getBirth()
+comment12.params=step
+comment12.target=boolean\ isMoved(int)
+comment2.params=s
+comment2.target=Organism\ breed(int)
+comment3.params=
+comment3.target=javax.swing.ImageIcon\ getIcon()
+comment4.params=x\ y\ start
+comment4.target=Organism(int,\ int,\ int)
+comment5.params=
+comment5.target=int\ getPosX()
+comment6.params=
+comment6.target=int\ getPosY()
+comment7.params=x
+comment7.target=void\ setPosX(int)
+comment8.params=y
+comment8.target=void\ setPosY(int)
+comment9.params=
+comment9.target=void\ addAge()
+numComments=13
